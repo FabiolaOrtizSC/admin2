@@ -1,0 +1,49 @@
+.fondo-gris {
+    width: 280px;
+    color: #757575;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    padding: 20px 30px 20px 30px;
+}
+
+input {
+    margin-left: 20px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+form, h1, .center, .center-2{
+    text-align: -webkit-center;
+}
+
+.center-2 {
+    margin-top: 200px;
+}
+
+.btn-create {
+    margin-bottom: 30px;
+    padding: 5px 40px 5px 40px;
+}
+
+.btn-delete{
+    color: white;
+    border: none;
+    background-color: #fd7474;
+    padding: 8px 10px 10px 10px;
+}
+
+.btn-edit {
+    color: white;
+    background-color: cornflowerblue;
+    padding: 5px 20px 5px 20px;
+}
+
+.space {
+    margin-right: 20px;
+    margin-left: 20px;
+}
